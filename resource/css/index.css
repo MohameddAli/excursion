@@ -1,11 +1,16 @@
 body {
 text-align:center;
 background-color: black;
-color:white;
 font-family: Verdana, Geneva , Tahoma, sans-serif;
 }
 
 a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+.header--main{
+  font-weight: normal;
+  font-size:50px;
+  color:white;
 }
