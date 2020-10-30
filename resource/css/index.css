@@ -24,5 +24,10 @@ font-size:42px;
 .header--sub-header {
   color:gray;
   font-size:21px;
-
+}
+/* FOOTER */
+.footer--copyright{
+color:gray;
+font-size:21px;
+text-align:right;
 }
